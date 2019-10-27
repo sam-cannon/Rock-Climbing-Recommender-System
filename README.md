@@ -1,0 +1,2 @@
+# Rock-Climbing-Recommender-System
+Development of a recommender system for rock climbs. This is a collaborative filtering recommender system that is being developed for openbeta.io. I am goint to be iterating on this to create a recommender to suggest rock climbs to people based on climbs that they have previously enjoyed. As of right now, we are looking to develop more of an item-based system, perhaps integrating content-based filtering to work around the "cold start" problem that we have with only people who have given reviews thus far being able to receive recommendations
